@@ -7,8 +7,11 @@ labels: bug
 **SDK version**
 <!-- e.g. 1.2.2 -->
 
-**Platform / engine**
-<!-- e.g. standalone C#, Godot -->
+**Language**
+<!-- e.g. C#, WASM, C -->
+
+**Platform**
+<!-- e.g. Windows, Mac, Linux, Android  -->
 
 **Describe the bug**
 <!-- A clear description of what's happening -->
