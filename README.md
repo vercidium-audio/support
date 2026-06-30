@@ -12,9 +12,9 @@ The SDK source code is **not** hosted here. This repository exists solely for is
 
 ## Opening an issue
 
-Use the appropriate template when creating an issue:
+Use a template when creating an issue:
 
-- **Bug report** - something isn't working as expected, or a mistake in the documentation
+- **Bug report** - a bug in the SDK or a mistake in the documentation
 - **Feature request** - suggest a change or new feature
 
 ## Contact
