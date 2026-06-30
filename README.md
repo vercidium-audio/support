@@ -14,7 +14,7 @@ The SDK source code is **not** hosted here. This repository exists solely for is
 
 Use the appropriate template when creating an issue:
 
-- **Bug report** - something isn't working as expected
+- **Bug report** - something isn't working as expected, or a mistake in the documentation
 - **Feature request** - suggest a change or new feature
 
 ## Contact
