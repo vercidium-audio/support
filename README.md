@@ -19,4 +19,4 @@ Use the appropriate template when creating an issue:
 
 ## Contact
 
-For licensing or private inquiries, contact [support@vercidium.com](mailto:support@vercidium.com).
+For private inquiries, please contact [support@vercidium.com](mailto:support@vercidium.com).
